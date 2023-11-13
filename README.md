@@ -1,8 +1,8 @@
-# React + Vite
+# Artstation clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This clone site is for practice and learning purposes. A lot of techniques are involved to acheive the effects present in this website. For example:
 
-Currently, two official plugins are available:
+- Draggable carousel
+- Responsive card size adjustment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo: https://jmmychow.github.io/as-clone/
